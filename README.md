@@ -1,3 +1,12 @@
+## Notes
+This site was created using the steps here:
+https://hackathon.freecodecamp.org/
+
+The hosted site is currently here:
+https://app.netlify.com/sites/blissful-blackwell-ab7f08/overview
+
+The rest of this README is from the Gatsby generator
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
